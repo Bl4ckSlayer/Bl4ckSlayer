@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bl4ckSlayer
+- 👋 Hi, I’m @Bl4ckSlayer AKA Amirul islam
 - 👀 I’m interested in
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me https://www.facebook.com/ai.tajbid/
 
 <!---
