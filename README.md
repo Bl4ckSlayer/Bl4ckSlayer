@@ -79,11 +79,9 @@
 ###
 
 <br clear="both">
+   
+   ###
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bl4ckslayer" alt="bl4ckslayer" /></a> </p>
-   <div align="left">  
 🔭 I’m currently working on [Drone Survay Bangladesh](https://www.dronesurveybangladesh.com/)
 
 🌱 I’m currently learning **Redux, Angular, Python**
@@ -94,10 +92,17 @@
 
 📫 How to reach me **amirulislamtajbid@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/17bEBWC0Yw5PBCjmMZySLqjgxAOvBf20E/view?usp=share_link](https://drive.google.com/file/d/17bEBWC0Yw5PBCjmMZySLqjgxAOvBf20E/view?usp=share_link)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/17bEBWC0Yw5PBCjmMZySLqjgxAOvBf20E/view?usp=share_link)
 
 ⚡ Fun fact **I think I am Funny**
-   </div>
+   
+   ###
+   <br clear="both">
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bl4ckslayer" alt="bl4ckslayer" /></a> </p>
+    
+
+
   
 
 
