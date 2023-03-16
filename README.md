@@ -74,7 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bl4ckSlayer/Bl4ckSlayer/blob/output/snake.svg" alt="Snake animation" />
+
 
 
 
